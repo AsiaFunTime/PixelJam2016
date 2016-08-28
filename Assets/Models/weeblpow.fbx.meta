@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: c5c57434efd07f24ba3d50f0bf1d6e6b
+timeCreated: 1472333061
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Char_o_1
+    100002: Char_o_2
+    100004: Char_P_1
+    100006: Char_P_2
+    100008: Char_w_1
+    100010: Char_w_2
+    100012: Char_x_1
+    100014: Char_x_2
+    100016: curve1
+    100018: curve10
+    100020: curve11
+    100022: curve12
+    100024: curve13
+    100026: curve14
+    100028: curve2
+    100030: curve3
+    100032: curve4
+    100034: curve5
+    100036: curve6
+    100038: curve7
+    100040: curve8
+    100042: curve9
+    100044: pCylinder1
+    100046: pCylinder2
+    100048: pCylinder3
+    100050: Text_Powx_1
+    100052: Text_Powx_2
+    100054: townsman1c_v5s_headless:pCylinder4
+    100056: townsman1c_v5s_headless:pCylinder6
+    100058: townsman1c_v5s_headless:pSphere2
+    100060: townsman1c_v5s_headless:townsman1c_v0:pCylinder4
+    100062: townsman1c_v5s_headless:townsman1c_v0:pCylinder6
+    100064: townsman1c_v5s_headless:townsman1c_v0:transform2
+    100066: townsman1c_v5s_headless:townsman1c_v0:transform4
+    100068: townsman1c_v5s_headless:transform2
+    100070: townsman1c_v5s_headless:transform4
+    100072: townsman1c_v5s_headless:transform5
+    100074: transform1
+    100076: transform2
+    100078: transform3
+    100080: transform4
+    100082: transform5
+    100084: transform6
+    100086: transform7
+    100088: Trim_Char_o_2_1
+    100090: Trim_Char_P_2_1
+    100092: Trim_Char_w_2_1
+    100094: Trim_Char_x_2_1
+    100096: Trim_Char_x_2_2
+    100098: Trim_Text_Powx_2_1
+    100100: //RootNode
+    400000: Char_o_1
+    400002: Char_o_2
+    400004: Char_P_1
+    400006: Char_P_2
+    400008: Char_w_1
+    400010: Char_w_2
+    400012: Char_x_1
+    400014: Char_x_2
+    400016: curve1
+    400018: curve10
+    400020: curve11
+    400022: curve12
+    400024: curve13
+    400026: curve14
+    400028: curve2
+    400030: curve3
+    400032: curve4
+    400034: curve5
+    400036: curve6
+    400038: curve7
+    400040: curve8
+    400042: curve9
+    400044: pCylinder1
+    400046: pCylinder2
+    400048: pCylinder3
+    400050: Text_Powx_1
+    400052: Text_Powx_2
+    400054: townsman1c_v5s_headless:pCylinder4
+    400056: townsman1c_v5s_headless:pCylinder6
+    400058: townsman1c_v5s_headless:pSphere2
+    400060: townsman1c_v5s_headless:townsman1c_v0:pCylinder4
+    400062: townsman1c_v5s_headless:townsman1c_v0:pCylinder6
+    400064: townsman1c_v5s_headless:townsman1c_v0:transform2
+    400066: townsman1c_v5s_headless:townsman1c_v0:transform4
+    400068: townsman1c_v5s_headless:transform2
+    400070: townsman1c_v5s_headless:transform4
+    400072: townsman1c_v5s_headless:transform5
+    400074: transform1
+    400076: transform2
+    400078: transform3
+    400080: transform4
+    400082: transform5
+    400084: transform6
+    400086: transform7
+    400088: Trim_Char_o_2_1
+    400090: Trim_Char_P_2_1
+    400092: Trim_Char_w_2_1
+    400094: Trim_Char_x_2_1
+    400096: Trim_Char_x_2_2
+    400098: Trim_Text_Powx_2_1
+    400100: //RootNode
+    2300000: pCylinder3
+    3300000: pCylinder3
+    4300000: pCylinder3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
